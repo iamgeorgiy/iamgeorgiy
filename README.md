@@ -24,3 +24,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=heroku-userbot&theme=tokyonight)](https://github.com/iamgeorgiy/heroku-userbot)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Google-Translator&theme=tokyonight)](https://github.com/iamgeorgiy/Google-Translator)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Weather-application&theme=tokyonight)](https://github.com/iamgeorgiy/Weather-application)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Password-checker&theme=tokyonight)](https://github.com/iamgeorgiy/Password-checker)
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
