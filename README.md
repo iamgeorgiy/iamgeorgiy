@@ -6,7 +6,9 @@
 
 <h3 align="center">A passionate,diligent,gregarious DevOps Engineer from Ukraine 🇺🇦 </h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working over myself🧐
+
+- 🌱 I currently learning Python,Linux administration,LAN and WAN,Cisco products,Network Security🕵️‍♂️ 
 
 - 💬 Ask me about: **what I choose:coffee or energy drink?😂🤫**
 
