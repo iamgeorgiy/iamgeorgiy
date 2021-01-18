@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate,diligent,gregarious DevOps Engineer from Ukraine 🇺🇦 </h3>
 
+- 🔭 I’m currently working on ...
+
 - 💬 Ask me about: **what I choose:coffee or energy drink?😂🤫**
 
 - 📫 How to reach me? **[My twitter](https://twitter.com/1_1creed1_1)**
