@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=radical&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=great-gatsby&layout=compact)
 <h1 align="center">Hi 👋, I'm Georgiy</h1>
 
 <h3 align="center">A passionate,diligent,gregarious DevOps Engineer from Ukraine 🇺🇦 </h3>
