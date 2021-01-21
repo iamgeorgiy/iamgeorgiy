@@ -39,8 +39,11 @@
 
 </div>
 
-```bash
-#!/bin/bash
-echo "Hello World!"
+```Python
+print("Hello World!:)")
+class Information about Me
+{
+
+}
 ```
 
