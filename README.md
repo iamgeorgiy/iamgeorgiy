@@ -39,7 +39,7 @@
 
 </div>
 
-```
-cout<<"Hello World"<<endl;
+```bash
+echo "Hello World!"
 ```
 
