@@ -4,7 +4,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=great-gatsby&layout=compact)
 
 [![Twitter: 1_1creed1_1](https://img.shields.io/twitter/follow/1_1creed1_1?style=social)](https://twitter.com/1_1creed1_1)
-[![GitHub iamgeorgiy](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iamgeorgiy)
+[![GitHub iamgeorgiy](https://img.shields.io/github/followers/iamgeorgiy?label=follow&style=social)](https://github.com/iamgeorgiy)
 
 
 <h1 align="center">Hi 👋, I'm Georgiy</h1>
