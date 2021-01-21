@@ -15,7 +15,7 @@
 
 - 🌱 I currently learning Python,Linux administration,LAN and WAN,Cisco products,Network Security🕵️‍♂️ 
 
-- 💬 Ask me about: **what I choose:coffee or energy drink?😂🤫**
+- 💬 Ask me about: **Linux,Bash,Cisco,Python,CyberSecurity🌐**
 
 - 📫 How to reach me? **[My twitter](https://twitter.com/1_1creed1_1)**
 
