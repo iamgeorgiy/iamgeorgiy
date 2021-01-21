@@ -29,7 +29,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=heroku-userbot&theme=gruvbox)](https://github.com/iamgeorgiy/heroku-userbot)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Google-Translator&theme=gruvbox)](https://github.com/iamgeorgiy/Google-Translator)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Weather-application&theme=gruvbox)](https://github.com/iamgeorgiy/Weather-application)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Password-checker&theme=gruvbox)](https://github.com/iamgeorgiy/Password-checker)
 
-![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/picture.png)
 
 
 
