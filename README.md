@@ -43,7 +43,7 @@
 print("Hello World!:)")
 class InformationAboutMe
 {
-return [
+listAboutMe = [
             'workplace' => [
                 'company' => 'IT-Step Computer Academy',
                 'position' => 'Student'         
