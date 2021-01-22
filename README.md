@@ -41,7 +41,7 @@
 
 ```Python
 print("Hello World!:)")
-class Information about Me
+class InformationAboutMe
 {
 
 }
