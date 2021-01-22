@@ -43,7 +43,12 @@
 print("Hello World!:)")
 class InformationAboutMe
 {
-
+return [
+            'workplace' => [
+                'company' => 'IT-Step Computer Academy',
+                'position' => 'Student'         
+            ]
+        ]
 }
 ```
 
