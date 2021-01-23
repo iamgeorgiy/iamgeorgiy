@@ -39,7 +39,7 @@
 
 </div>
 
-![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/web-developer.gif)
+![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/carbon.png)
 
 ```Python
 print("Hello World!:)")
