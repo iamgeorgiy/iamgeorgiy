@@ -41,12 +41,6 @@
 
 ![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/carbon.png)
 
-```Python
-print("Hello World!:)")
-class InformationAboutMe
-{
-listAboutMe = ['workplace','company => IT-Step Computer Academy','position => Student']
-}
-```
+
 
 
