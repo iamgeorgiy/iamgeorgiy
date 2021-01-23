@@ -39,6 +39,8 @@
 
 </div>
 
+![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/web-developer.gif)
+
 ```Python
 print("Hello World!:)")
 class InformationAboutMe
@@ -46,4 +48,5 @@ class InformationAboutMe
 listAboutMe = ['workplace','company => IT-Step Computer Academy','position => Student']
 }
 ```
+
 
