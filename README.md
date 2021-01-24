@@ -27,7 +27,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=iamgeorgiy)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=heroku-userbot&theme=default_repocard)](https://github.com/iamgeorgiy/heroku-userbot)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Google-Translator&theme=algolia)](https://github.com/iamgeorgiy/Google-Translator)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Weather-application&theme=shades-of-purple)](https://github.com/iamgeorgiy/Weather-application)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Password-checker&theme=blue-green)](https://github.com/iamgeorgiy/Password-checker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=heroku-userbot&theme=solarized-dark)](https://github.com/iamgeorgiy/heroku-userbot)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Google-Translator&theme=algolia)](https://github.com/iamgeorgiy/Google-Translator)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Weather-application&theme=shades-of-purple)](https://github.com/iamgeorgiy/Weather-application)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamgeorgiy&repo=Password-checker&theme=blue-green)](https://github.com/iamgeorgiy/Password-checker)
 
 ![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/web-developer.gif)
 
