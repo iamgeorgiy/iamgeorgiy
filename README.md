@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
+![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=gotham)
 
 
 ![iamgeorgiy stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=shades-of-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact)[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
