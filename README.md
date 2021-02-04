@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=shades-of-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
+![a](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=shades-of-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
 
 [![Twitter: 1_1creed1_1](https://img.shields.io/twitter/follow/1_1creed1_1?style=social)](https://twitter.com/1_1creed1_1)
 [![GitHub iamgeorgiy](https://img.shields.io/github/followers/iamgeorgiy?label=follow&style=social)](https://github.com/iamgeorgiy)
