@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact&align=center)[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact&align=center)
 <a href="https://open.spotify.com/">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
@@ -48,5 +47,6 @@
 
 ![iamgeorgiy stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=gotham)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
 
 
