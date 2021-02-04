@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
 
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
 ![iamgeorgiy stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact)[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
 
