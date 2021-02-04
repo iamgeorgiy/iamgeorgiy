@@ -45,10 +45,13 @@
 
 ![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/carbon.png)
 
-- My Github stats:
+<div align="center">
+
+### My Github stats:
 
 ![iamgeorgiy stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=gotham)
 
+</div>
 
 
 
