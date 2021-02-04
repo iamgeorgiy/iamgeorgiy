@@ -8,7 +8,12 @@
   
 [![Twitter: 1_1creed1_1](https://img.shields.io/twitter/follow/1_1creed1_1?style=social)](https://twitter.com/1_1creed1_1)
 [![GitHub iamgeorgiy](https://img.shields.io/github/followers/iamgeorgiy?label=follow&style=social)](https://github.com/iamgeorgiy)
+
+<div align="center">
+
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy me a coffee" width="150" >
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Georgiy</h1>
 
