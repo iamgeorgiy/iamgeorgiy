@@ -2,7 +2,7 @@
 
 ![iamgeorgiy stats](https://github-readme-stats.vercel.app/api?username=iamgeorgiy&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgeorgiy&theme=shades-of-purple&layout=compact)[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
 
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
 [![Twitter: 1_1creed1_1](https://img.shields.io/twitter/follow/1_1creed1_1?style=social)](https://twitter.com/1_1creed1_1)
