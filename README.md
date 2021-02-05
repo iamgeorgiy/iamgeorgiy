@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
+
+</div>
+
 <div align="center"
 
 <a href="https://open.spotify.com/">
