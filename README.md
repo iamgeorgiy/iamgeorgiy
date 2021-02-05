@@ -1,4 +1,8 @@
-<div align="center"
+
+<a href="https://open.spotify.com/">
+  <img align="right" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
 
@@ -31,8 +35,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Georgiy</h1>
-<a href="https://open.spotify.com/">
-  <img align="right" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
 <h3 align="center">A passionate,diligent,gregarious DevOps Engineer from Ukraine 🇺🇦 </h3>
 
