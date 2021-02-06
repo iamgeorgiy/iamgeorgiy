@@ -26,9 +26,7 @@
 
 </div>
 
-
-![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif)
-  
+<img align="right" alt="GIF" src="https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 <div align="center"
