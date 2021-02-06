@@ -4,6 +4,9 @@
 <a href="https://twitter.com/1_1creed1_1">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+ <a href="https://github.com/iamgeorgiy">
+  <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
 
 <div align="center">
 
