@@ -1,6 +1,9 @@
 
 <a href="https://open.spotify.com/">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://twitter.com/1_1creed1_1">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 <div align="center">
 
