@@ -26,6 +26,11 @@
 
 </div>
 
+
+![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif)
+  
+
+
 <div align="center"
 
   
