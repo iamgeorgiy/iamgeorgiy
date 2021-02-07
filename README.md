@@ -26,7 +26,7 @@
 
 </div>
 
-<img align="center" alt="GIF" src="https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif?raw=true" width="400" height="420" />
+<img align="center" alt="GIF" src="https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif?raw=true" width="500" height="520" />
 
 
 <div align="center" width="500">
