@@ -26,10 +26,10 @@
 
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif?raw=true" width="500" height="420" />
+<img align="center" alt="GIF" src="https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif?raw=true" width="500" height="420" />
 
 
-<div align="left"
+<div align="center" width="500">
 
 [![Twitter: 1_1creed1_1](https://img.shields.io/twitter/follow/1_1creed1_1?style=social)](https://twitter.com/1_1creed1_1)
 [![GitHub iamgeorgiy](https://img.shields.io/github/followers/iamgeorgiy?label=follow&style=social)](https://github.com/iamgeorgiy)
