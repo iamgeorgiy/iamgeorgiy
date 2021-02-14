@@ -62,6 +62,12 @@
 
 <div align="center">
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
+
+</div>
+
+<div align="center">
+
 ![alt](https://github.com/iamgeorgiy/iamgeorgiy/blob/main/web-developer.gif)
 
 </div>
