@@ -20,11 +20,7 @@
 
 </div>
 
-<div align="center">
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamgeorgiy)](https://github.com/iamgeorgiy/)
-
-</div>
 
 <img align="right" alt="GIF" src="https://github.com/iamgeorgiy/iamgeorgiy/blob/main/code.gif?raw=true" width="500" height="520" />
 
