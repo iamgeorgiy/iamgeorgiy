@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=blue)
+![](https://komarev.com/ghpvc/?username=iamgeorgiy&style=plastic&color=yellow)
 
 </div>
 
